@@ -1,0 +1,7 @@
+{
+  "name": "tributary",
+  "description": "Roll Claude.ai Project context up into account-level memory: /project-export inside a Project, /hub-import outside.",
+  "version": "0.1.0",
+  "repository": "https://github.com/tyler-void/tributary",
+  "license": "MIT"
+}

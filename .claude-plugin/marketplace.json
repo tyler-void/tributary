@@ -1,0 +1,17 @@
+{
+  "name": "tributary",
+  "owner": {
+    "name": "Tyler"
+  },
+  "metadata": {
+    "description": "Skills that roll Claude.ai Project context up into account-level memory",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "tributary",
+      "description": "/project-export inside a Project, /hub-import in a chat outside any Project",
+      "source": "./"
+    }
+  ]
+}
